@@ -1,4 +1,4 @@
-Ik bouw graag ontwerpen pixel-perfect na en maak ze responsive, accessible en performant. Daarnaast denk ik actief mee over het ontwerp, een schaalbare CSS-structuur en moderne layouts. In mijn vrije tijd fiets ik wel eens, volg ik het schaatsen en houd ik van (leg)puzzels maken.
+Ik bouw graag ontwerpen pixel-perfect na en maak ze responsive, accessible en performant. Daarnaast denk ik actief mee over het ontwerp, een schaalbare CSS-structuur en moderne layouts.
 
 ### 🛠️ Tech Stack
 * **Ervaring met:** HTML, CSS, JavaScript, Liquid en SvelteKit.
@@ -10,5 +10,5 @@ Ik bouw graag ontwerpen pixel-perfect na en maak ze responsive, accessible en pe
 
 ### 🤝 Ervaring
 * **Studentassistent bij CMD:** Studenten helpen bij het vak *Het web is voor iedereen* met HTML, CSS en toegankelijkheid voor hun opdrachten. Enkele codevoorbeelden staan op mijn [CodePen](https://codepen.io/Maarten-te-Poele).
-* **CSS Challenges bij FDND:** CSS-expert Sanne 't Hooft assisteren bij workshops en vragen van studenten beantwoorden. Zie [CSS Challenges](https://github.com/fdnd-task/css-challenges/blob/main/docs/CHALLENGES.md).
+* **Studentassistent bij FDND:** CSS-expert Sanne 't Hooft assisteren bij [CSS Challenges](https://github.com/fdnd-task/css-challenges/blob/main/docs/CHALLENGES.md) en vragen van studenten beantwoorden.
 * **Mentoren bij FDND:** Begeleiden van een groepje eerstejaars tijdens workshops, geven van code-reviews en beschikbaar zijn voor vragen over opdrachten en de opleiding.
