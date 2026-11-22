@@ -6,6 +6,7 @@ Ik bouw graag ontwerpen pixel-perfect na en maak ze responsive, accessible en pe
 
 ### 💻 Projecten
 * Binnen een team werk ik aan [africanair.org](https://africanair-dev.netlify.app/) voor het KNMI.
+* In jaar 1 heb ik een [dashboard](https://proof-of-concept-uh97.onrender.com/) gemaakt voor Coding the Curbs.
 * Mijn eigen [portfoliosite](https://github.com/MaartentePoele/i-love-web) (in ontwikkeling).
 
 ### 🤝 Ervaring
