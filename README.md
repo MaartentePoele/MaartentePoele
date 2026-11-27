@@ -1,4 +1,4 @@
-Ik bouw graag ontwerpen pixel-perfect na en maak ze responsive, accessible en performant. Daarnaast denk ik actief mee over het ontwerp, een schaalbare CSS-structuur en moderne layouts.
+Ik bouw graag ontwerpen pixel-perfect na en maak ze responsive, accessible en performant. Daarnaast denk ik actief mee over het ontwerp, een slimme CSS-structuur en moderne layouts.
 
 ### 🛠️ Tech Stack
 * **Ervaring met:** HTML, CSS, JavaScript, Liquid en SvelteKit.
